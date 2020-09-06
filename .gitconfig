@@ -3,3 +3,4 @@
 	name = Michael Cassel
 [core]
 	editor = vim
+	excludesfile = /home/mcassel/.gitignore_global
