@@ -4,3 +4,5 @@
 [core]
 	editor = vim
 	excludesfile = /home/mcassel/.gitignore_global
+	whitespace = cr-at-eol
+	autocrlf = input
